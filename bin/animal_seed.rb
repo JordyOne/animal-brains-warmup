@@ -1,5 +1,5 @@
 
 require_relative '../lib/assets/csv_parsing'
 
-AnimalSeeder.new('lib/assets/Animals.csv')
+TableSeeder.new('lib/assets/Animals.csv')
 

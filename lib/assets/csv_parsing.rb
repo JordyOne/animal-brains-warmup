@@ -1,6 +1,6 @@
 require 'csv'
 
-class AnimalSeeder
+class TableSeeder
 
   def initialize(file)
     seed_writing(file)
